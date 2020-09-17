@@ -1,4 +1,4 @@
-public class ShowCurrentTime {
+public class VisNuværendeTid {
     public static void main(String[] args) {
 
         long totalMilliSekunder = System.currentTimeMillis();
